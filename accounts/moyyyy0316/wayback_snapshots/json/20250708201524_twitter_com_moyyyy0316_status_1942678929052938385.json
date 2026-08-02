@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942678911738896384",
+        "3_1942678918991130624",
+        "3_1942678925576138752"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "1942678929052938385",
+    "created_at": "2025-07-08T20:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T21:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942678929052938385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2RDuBU0dJC",
+          "end": 55,
+          "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+          "media_key": "3_1942678911738896384",
+          "start": 32,
+          "url": "https://t.co/2RDuBU0dJC"
+        },
+        {
+          "display_url": "pic.x.com/2RDuBU0dJC",
+          "end": 55,
+          "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+          "media_key": "3_1942678918991130624",
+          "start": 32,
+          "url": "https://t.co/2RDuBU0dJC"
+        },
+        {
+          "display_url": "pic.x.com/2RDuBU0dJC",
+          "end": 55,
+          "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+          "media_key": "3_1942678925576138752",
+          "start": 32,
+          "url": "https://t.co/2RDuBU0dJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942678929052938385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "៸៸᳐⦁⩊&lt;៸៸᳐ ੭ﾞ🐾做人要像小饼干一样，干干脆脆的 https://t.co/2RDuBU0dJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1942678911738896384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXILW7W4AAgglL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2073,
+        "media_key": "3_1942678918991130624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXILx8bMAAzn2e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942678925576138752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvXIMKeacAAQuvD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942678911738896384",
+            "3_1942678918991130624",
+            "3_1942678925576138752"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "1942678929052938385",
+        "created_at": "2025-07-08T20:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T21:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942678929052938385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2RDuBU0dJC",
+              "end": 55,
+              "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+              "media_key": "3_1942678911738896384",
+              "start": 32,
+              "url": "https://t.co/2RDuBU0dJC"
+            },
+            {
+              "display_url": "pic.x.com/2RDuBU0dJC",
+              "end": 55,
+              "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+              "media_key": "3_1942678918991130624",
+              "start": 32,
+              "url": "https://t.co/2RDuBU0dJC"
+            },
+            {
+              "display_url": "pic.x.com/2RDuBU0dJC",
+              "end": 55,
+              "expanded_url": "https://x.com/moyyyy0316/status/1942678929052938385/photo/1",
+              "media_key": "3_1942678925576138752",
+              "start": 32,
+              "url": "https://t.co/2RDuBU0dJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942678929052938385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "៸៸᳐⦁⩊&lt;៸៸᳐ ੭ﾞ🐾做人要像小饼干一样，干干脆脆的 https://t.co/2RDuBU0dJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。每天超级无敌困,欢迎来找我玩喵\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

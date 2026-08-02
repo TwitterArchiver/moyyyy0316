@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2029064434749194495",
+    "created_at": "2026-03-04T20:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T21:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029297451027628356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001286547791101953",
+          "start": 0,
+          "username": "bai94757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029297451027628356",
+    "in_reply_to_user_id": "2001286547791101953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029064434749194495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai94757 直接偷走"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029064420371107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCivVwKakAAiTTo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2029064434749194495",
+        "created_at": "2026-03-04T20:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029297451027628356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001286547791101953",
+              "start": 0,
+              "username": "bai94757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029297451027628356",
+        "in_reply_to_user_id": "2001286547791101953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029064434749194495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai94757 直接偷走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029064420371107840"
+          ]
+        },
+        "author_id": "2001286547791101953",
+        "conversation_id": "2029064434749194495",
+        "created_at": "2026-03-04T05:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T06:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029064434749194495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88HQToQ0cJ",
+              "end": 28,
+              "expanded_url": "https://x.com/bai94757/status/2029064434749194495/photo/1",
+              "media_key": "3_2029064420371107840",
+              "start": 5,
+              "url": "https://t.co/88HQToQ0cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029064434749194495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米片🥰 https://t.co/88HQToQ0cJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 80,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 148
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T13:42:19.000Z",
+        "description": "",
+        "id": "2001286547791101953",
+        "name": "知白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016596632318726144/o6TVOh0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 2503,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 149
+        },
+        "username": "bai94757",
+        "verified": false
+      }
+    ]
+  }
+}

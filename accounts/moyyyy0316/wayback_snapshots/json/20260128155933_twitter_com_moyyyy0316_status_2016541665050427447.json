@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016541662248681472"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016541665050427447",
+    "created_at": "2026-01-28T15:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016541665050427447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFWXoBMaDN",
+          "end": 27,
+          "expanded_url": "https://x.com/moyyyy0316/status/2016541665050427447/photo/1",
+          "media_key": "3_2016541662248681472",
+          "start": 4,
+          "url": "https://t.co/rFWXoBMaDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016541665050427447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嫌弃脸 https://t.co/rFWXoBMaDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016541662248681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wx9S0bwAAG9j7.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016541662248681472"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016541665050427447",
+        "created_at": "2026-01-28T15:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016541665050427447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFWXoBMaDN",
+              "end": 27,
+              "expanded_url": "https://x.com/moyyyy0316/status/2016541665050427447/photo/1",
+              "media_key": "3_2016541662248681472",
+              "start": 4,
+              "url": "https://t.co/rFWXoBMaDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016541665050427447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嫌弃脸 https://t.co/rFWXoBMaDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "大家可以叫我小y呀！墙内不敢发的碎碎念/崩溃精神记录，甜筒是世界上最善良的食物🍦😋",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 29
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

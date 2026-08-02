@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080644978829889536"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2080644986689950043",
+    "created_at": "2026-07-24T13:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080644986689950043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sp4rzcNguV",
+          "end": 65,
+          "expanded_url": "https://x.com/moyyyy0316/status/2080644986689950043/photo/1",
+          "media_key": "3_2080644978829889536",
+          "start": 42,
+          "url": "https://t.co/Sp4rzcNguV"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0151348954a4147f"
+    },
+    "id": "2080644986689950043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我用了很多种方式找回我的睡眠 香烟 酒精 音乐 可只有你爱我的时候 我闭眼就能睡着 https://t.co/Sp4rzcNguV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [0151348954a4147f].",
+      "parameter": "geo.place_id",
+      "resource_id": "0151348954a4147f",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "0151348954a4147f"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2080644978829889536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_vlaLbEAAsPgz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080644978829889536"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2080644986689950043",
+        "created_at": "2026-07-24T13:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080644986689950043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sp4rzcNguV",
+              "end": 65,
+              "expanded_url": "https://x.com/moyyyy0316/status/2080644986689950043/photo/1",
+              "media_key": "3_2080644978829889536",
+              "start": 42,
+              "url": "https://t.co/Sp4rzcNguV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "2080644986689950043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用了很多种方式找回我的睡眠 香烟 酒精 音乐 可只有你爱我的时候 我闭眼就能睡着 https://t.co/Sp4rzcNguV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小困(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 179,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1628687033068843010"
+      ],
+      "media_source_tweet_id": [
+        "1628687077557796864"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "1946420677918986719",
+    "created_at": "2025-07-19T04:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946420677918986719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559069150785732608",
+          "start": 3,
+          "username": "Bakutan_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pSUl8nby8",
+          "end": 48,
+          "expanded_url": "https://x.com/catmeowmeong/status/1628687077557796864/video/1",
+          "media_key": "7_1628687033068843010",
+          "start": 25,
+          "url": "https://t.co/6pSUl8nby8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946420677918986719",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2326
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944715395656740995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bakutan_bot1: 可愛すぎる\n https://t.co/6pSUl8nby8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23600,
+        "height": 406,
+        "media_key": "7_1628687033068843010",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1628687033068843010/pu/img/FIuQkx3wr1xrBPTl.jpg",
+        "public_metrics": {
+          "view_count": 1220722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1628687033068843010/pu/vid/478x270/DhfSjUeUfMCnRUHa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1628687033068843010/pu/vid/720x406/t9ySYDKmf1XNsS6r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1628687033068843010/pu/pl/F8LoPAOHBTf5hQgd.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1628687033068843010"
+          ],
+          "media_source_tweet_id": [
+            "1628687077557796864"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "1946420677918986719",
+        "created_at": "2025-07-19T04:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946420677918986719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559069150785732608",
+              "start": 3,
+              "username": "Bakutan_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pSUl8nby8",
+              "end": 48,
+              "expanded_url": "https://x.com/catmeowmeong/status/1628687077557796864/video/1",
+              "media_key": "7_1628687033068843010",
+              "start": 25,
+              "url": "https://t.co/6pSUl8nby8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946420677918986719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2326
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944715395656740995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bakutan_bot1: 可愛すぎる\n https://t.co/6pSUl8nby8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1628687033068843010"
+          ],
+          "media_source_tweet_id": [
+            "1628687077557796864"
+          ]
+        },
+        "author_id": "1559069150785732608",
+        "conversation_id": "1944715395656740995",
+        "created_at": "2025-07-14T11:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T12:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944715395656740995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pSUl8nby8",
+              "end": 30,
+              "expanded_url": "https://x.com/catmeowmeong/status/1628687077557796864/video/1",
+              "media_key": "7_1628687033068843010",
+              "start": 7,
+              "url": "https://t.co/6pSUl8nby8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944715395656740995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1761,
+          "impression_count": 864457,
+          "like_count": 22320,
+          "quote_count": 160,
+          "reply_count": 24,
+          "retweet_count": 2326
+        },
+        "reply_settings": "everyone",
+        "text": "可愛すぎる\n https://t.co/6pSUl8nby8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。可以叫我小y，超级无敌困,欢迎来找我玩呀\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:47:19.000Z",
+        "description": "癒やされる動物をツイートにて皆様にお届けします📦",
+        "id": "1559069150785732608",
+        "name": "癒しのお届け便 📦【動物】",
+        "pinned_tweet_id": "1889531375377641485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628720490398511105/RGzC-DTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305023,
+          "following_count": 0,
+          "like_count": 1727,
+          "listed_count": 673,
+          "media_count": 5876,
+          "tweet_count": 5929
+        },
+        "username": "Bakutan_bot1",
+        "verified": true
+      }
+    ]
+  }
+}

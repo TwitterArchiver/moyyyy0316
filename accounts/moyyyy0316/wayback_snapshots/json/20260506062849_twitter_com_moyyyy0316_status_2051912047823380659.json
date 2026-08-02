@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2051912047823380659",
+    "created_at": "2026-05-06T06:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051912047823380659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851962067236065281",
+          "start": 3,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051912047823380659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051350323944731052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dzzzzz467732: 唉我觉得那些过的很惨的人不割手不od还坚持活下来了真牛逼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2051912047823380659",
+        "created_at": "2026-05-06T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051912047823380659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851962067236065281",
+              "start": 3,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051912047823380659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051350323944731052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dzzzzz467732: 唉我觉得那些过的很惨的人不割手不od还坚持活下来了真牛逼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2051350323944731052",
+        "created_at": "2026-05-04T17:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051350323944731052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051350323944731052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8742,
+          "like_count": 369,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "唉我觉得那些过的很惨的人不割手不od还坚持活下来了真牛逼啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 147,
+          "like_count": 798,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 199
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "去死吧",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 240,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 892
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

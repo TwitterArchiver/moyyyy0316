@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2082003661035839880",
+    "created_at": "2026-07-28T08:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082016776448324094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "momokoo8964"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0151348954a4147f"
+    },
+    "id": "2082016776448324094",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082003661035839880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momokoo8964 震撼美味😋！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [0151348954a4147f].",
+      "parameter": "geo.place_id",
+      "resource_id": "0151348954a4147f",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "0151348954a4147f"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082003636159447040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTDRrJbAAA_hBV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2082003661035839880",
+        "created_at": "2026-07-28T08:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082016776448324094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "momokoo8964"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "2082016776448324094",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082003661035839880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momokoo8964 震撼美味😋！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082003636159447040"
+          ]
+        },
+        "author_id": "1843735518401703937",
+        "conversation_id": "2082003661035839880",
+        "created_at": "2026-07-28T07:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082003661035839880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bs0MI6ahg",
+              "end": 23,
+              "expanded_url": "https://x.com/momokoo8964/status/2082003661035839880/photo/1",
+              "media_key": "3_2082003636159447040",
+              "start": 0,
+              "url": "https://t.co/1bs0MI6ahg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082003661035839880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1bs0MI6ahg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 187,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "只是一个普通人类女孩",
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2078388915049013759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077346029083750400/Bda5bvbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 147,
+          "like_count": 4755,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "momokoo8964",
+        "verified": false
+      }
+    ]
+  }
+}

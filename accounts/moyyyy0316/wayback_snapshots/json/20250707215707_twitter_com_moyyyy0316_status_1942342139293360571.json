@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942342136143437824"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "1942342139293360571",
+    "created_at": "2025-07-07T21:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T22:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942342139293360571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DBPUHjVDJe",
+          "end": 51,
+          "expanded_url": "https://x.com/moyyyy0316/status/1942342139293360571/photo/1",
+          "media_key": "3_1942342136143437824",
+          "start": 28,
+          "url": "https://t.co/DBPUHjVDJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942342139293360571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明是我更可爱吧 不许和她说话了  \nฅ´ ꄃ `ฅ՞ https://t.co/DBPUHjVDJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_1942342136143437824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvSV4cEaYAAcB48.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942342136143437824"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "1942342139293360571",
+        "created_at": "2025-07-07T21:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T22:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942342139293360571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBPUHjVDJe",
+              "end": 51,
+              "expanded_url": "https://x.com/moyyyy0316/status/1942342139293360571/photo/1",
+              "media_key": "3_1942342136143437824",
+              "start": 28,
+              "url": "https://t.co/DBPUHjVDJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942342139293360571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明是我更可爱吧 不许和她说话了  \nฅ´ ꄃ `ฅ՞ https://t.co/DBPUHjVDJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "每天超级无敌困,来找我玩喵",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

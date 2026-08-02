@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1955443045857693867",
+    "created_at": "2025-08-13T01:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T02:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955443045857693867"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955443045857693867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对死亡做了几年的心理准备和告别，L先生的突然出现，就像天天窝在山洞里的哥布林，某天一个骑士从天而降，单膝跪在面前“公主请让我带你走”\n我开始害怕了，亲人的离别对L先生打击太大，我看过他埋在我怀里痛哭，抹干眼泪强装坚强的样子，我不在了，他还能在谁怀里变回小孩的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1955443045857693867",
+        "created_at": "2025-08-13T01:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955443045857693867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955443045857693867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对死亡做了几年的心理准备和告别，L先生的突然出现，就像天天窝在山洞里的哥布林，某天一个骑士从天而降，单膝跪在面前“公主请让我带你走”\n我开始害怕了，亲人的离别对L先生打击太大，我看过他埋在我怀里痛哭，抹干眼泪强装坚强的样子，我不在了，他还能在谁怀里变回小孩的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "大家可以叫我小y呀！恋爱日记/墙内不敢发的碎碎念/崩溃精神记录，甜筒是世界上最善良的食物🍦😋",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

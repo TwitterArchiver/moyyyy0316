@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2023324406207090853",
+    "created_at": "2026-02-16T09:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023324406207090853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/77771Yyy/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/77771Yyy/status/2023012627606368290",
+          "start": 9,
+          "url": "https://t.co/drngq24x1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023324406207090853",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023012627606368290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我外公喝止咳水… https://t.co/drngq24x1A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2023324406207090853",
+        "created_at": "2026-02-16T09:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023324406207090853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/77771Yyy/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/77771Yyy/status/2023012627606368290",
+              "start": 9,
+              "url": "https://t.co/drngq24x1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023324406207090853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023012627606368290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我外公喝止咳水… https://t.co/drngq24x1A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779585832210432",
+        "conversation_id": "2023012627606368290",
+        "created_at": "2026-02-15T12:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T13:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023012627606368290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kk378798197420…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kk3787981974204/status/2022983691920916613",
+              "start": 9,
+              "url": "https://t.co/RMpjyHHhPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023012627606368290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022983691920916613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸喝强力枇杷露 https://t.co/RMpjyHHhPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 82,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 126
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:22:37.000Z",
+        "description": "🚪52/88/坐标10｜只对部分人感兴趣｜餐券 od 负能 自伤｜同类互fo｜漏了可以私信我虽然私信有时候也看不到…我很好相处 喜欢有礼貌的人",
+        "id": "1900779585832210432",
+        "name": "71",
+        "pinned_tweet_id": "2022208733133320205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976968577891659776/czXAeT_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 189,
+          "like_count": 2273,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 925
+        },
+        "username": "77771Yyy",
+        "verified": false
+      }
+    ]
+  }
+}

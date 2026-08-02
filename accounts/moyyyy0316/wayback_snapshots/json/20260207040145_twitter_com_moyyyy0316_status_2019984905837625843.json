@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2019984905837625843",
+    "created_at": "2026-02-07T04:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019984905837625843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1485158225167413248",
+          "start": 3,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019984905837625843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019770146705797139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chihorishizuku: 回避型就应该站一排让机枪扫 反正他们也会回避"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2019984905837625843",
+        "created_at": "2026-02-07T04:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019984905837625843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1485158225167413248",
+              "start": 3,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019984905837625843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019770146705797139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chihorishizuku: 回避型就应该站一排让机枪扫 反正他们也会回避"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485158225167413248",
+        "conversation_id": "2019770146705797139",
+        "created_at": "2026-02-06T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019770146705797139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019770146705797139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4680,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "回避型就应该站一排让机枪扫 反正他们也会回避"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 75
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推！🔗：https://t.co/4vU1YBRvNm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=H0wBxWpB",
+                "start": 82,
+                "url": "https://t.co/4vU1YBRvNm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🍥",
+        "pinned_tweet_id": "2009856515856027902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013973066188292096/u4D8d_Sz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3604,
+          "following_count": 652,
+          "like_count": 24562,
+          "listed_count": 9,
+          "media_count": 461,
+          "tweet_count": 4839
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": false
+      }
+    ]
+  }
+}

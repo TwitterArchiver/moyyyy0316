@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2021206621662360030",
+    "created_at": "2026-02-10T13:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021216581880107380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761208815088001024",
+          "start": 0,
+          "username": "_Bad_Meow_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021216581880107380",
+    "in_reply_to_user_id": "1761208815088001024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021207936153067737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Bad_Meow_ 好呀宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2021206621662360030",
+        "created_at": "2026-02-10T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021216581880107380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761208815088001024",
+              "start": 0,
+              "username": "_Bad_Meow_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021216581880107380",
+        "in_reply_to_user_id": "1761208815088001024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021207936153067737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Bad_Meow_ 好呀宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761208815088001024",
+        "conversation_id": "2021206621662360030",
+        "created_at": "2026-02-10T13:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021207936153067737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942335596816670720",
+              "start": 0,
+              "username": "moyyyy0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021207936153067737",
+        "in_reply_to_user_id": "1942335596816670720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021206621662360030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moyyyy0316 我要努力进内圈！😼😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 62,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 94
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:58:04.000Z",
+        "description": "餐券割手女🔪🩸︱友好不鉴证谢谢！︱可以称呼我为饼干︱休学家里蹲︱OD💊︱同类互fo︱画画︱私信我时只说“你好”不会给予任何回复！‼️︱无🚪但给我打零食钱的话我会很喜欢你（用不了支付宝😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cookie88211",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cookie88211",
+                "start": 0,
+                "url": "https://t.co/k9b4PZvg4N"
+              }
+            ]
+          }
+        },
+        "id": "1761208815088001024",
+        "location": "家",
+        "name": "┃☆饼干饼干☆┃",
+        "pinned_tweet_id": "2018454229028143380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008258914010415105/8V-a0CWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 336,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/k9b4PZvg4N",
+        "username": "_Bad_Meow_",
+        "verified": false
+      }
+    ]
+  }
+}

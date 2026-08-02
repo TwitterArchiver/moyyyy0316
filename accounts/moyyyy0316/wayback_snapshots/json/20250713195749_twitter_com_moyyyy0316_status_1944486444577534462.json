@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1944084401341837600",
+    "created_at": "2025-07-13T19:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T20:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944486444577534462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1823479788033728512",
+          "start": 0,
+          "username": "ktuitek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944486444577534462",
+    "in_reply_to_user_id": "1823479788033728512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944084401341837600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ktuitek 好听！！！(•̀⌄•́)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43769,
+        "height": 960,
+        "media_key": "7_1944084267652317185",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1944084267652317185/pu/img/Lip13dWToiqk6kCU.jpg",
+        "public_metrics": {
+          "view_count": 308
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944084267652317185/pu/vid/avc1/320x426/zyICxvGSEiJuIIKk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944084267652317185/pu/vid/avc1/480x640/V1R7Nj-D2KNX4x36.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1944084267652317185/pu/vid/avc1/720x960/PHDb4XNZPfYpmpxu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1944084267652317185/pu/pl/YfHt8_g4oFN7ehHa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1944084401341837600",
+        "created_at": "2025-07-13T19:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T20:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944486444577534462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823479788033728512",
+              "start": 0,
+              "username": "ktuitek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944486444577534462",
+        "in_reply_to_user_id": "1823479788033728512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944084401341837600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ktuitek 好听！！！(•̀⌄•́)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1944084267652317185"
+          ]
+        },
+        "author_id": "1823479788033728512",
+        "conversation_id": "1944084401341837600",
+        "created_at": "2025-07-12T17:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944084401341837600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "清水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7HlorBxSJ",
+              "end": 33,
+              "expanded_url": "https://x.com/ktuitek/status/1944084401341837600/video/1",
+              "media_key": "7_1944084267652317185",
+              "start": 10,
+              "url": "https://t.co/n7HlorBxSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944084401341837600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1197,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唱歌^ ^\n#清水 https://t.co/n7HlorBxSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。可以叫我小y，超级无敌困,欢迎来找我玩呀\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T22:00:44.000Z",
+        "description": "入🚪解锁点单 🚪简介｜谢谢大家喜欢 下方匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kai_yluv1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kai_yluv1",
+                "start": 0,
+                "url": "https://t.co/bXwnOY4tIK"
+              }
+            ]
+          }
+        },
+        "id": "1823479788033728512",
+        "name": "泪欲",
+        "pinned_tweet_id": "1937955138184090047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932031666660450304/nROye_mP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 851,
+          "like_count": 2735,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/bXwnOY4tIK",
+        "username": "ktuitek",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2023709990150975983",
+    "created_at": "2026-02-17T10:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023710962583490989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023710962583490989",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023709990150975983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 小眼睛…好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2023709963097698307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWpfUbbcAMk0Vz.jpg",
+        "width": 810
+      },
+      {
+        "height": 1133,
+        "media_key": "3_2023709963106000896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWpfUdaIAAAgm-.jpg",
+        "width": 697
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2023709963101892609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWpfUcbcAEdBwl.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2023709990150975983",
+        "created_at": "2026-02-17T10:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023710962583490989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023710962583490989",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023709990150975983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 小眼睛…好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023709963097698307",
+            "3_2023709963106000896",
+            "3_2023709963101892609"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "conversation_id": "2023709990150975983",
+        "created_at": "2026-02-17T10:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023709990150975983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NL0svAgyQe",
+              "end": 28,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2023709990150975983/photo/1",
+              "media_key": "3_2023709963097698307",
+              "start": 5,
+              "url": "https://t.co/NL0svAgyQe"
+            },
+            {
+              "display_url": "pic.x.com/NL0svAgyQe",
+              "end": 28,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2023709990150975983/photo/1",
+              "media_key": "3_2023709963106000896",
+              "start": 5,
+              "url": "https://t.co/NL0svAgyQe"
+            },
+            {
+              "display_url": "pic.x.com/NL0svAgyQe",
+              "end": 28,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2023709990150975983/photo/1",
+              "media_key": "3_2023709963101892609",
+              "start": 5,
+              "url": "https://t.co/NL0svAgyQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023709990150975983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前割的 https://t.co/NL0svAgyQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 132
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女丨少关心我\n不喜欢的直接b 推特是垃圾桶口无遮拦 同类回fo",
+        "id": "1964331185590718464",
+        "location": "🚪40走vx+10pyq 熟推免",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019848796881186816/pdjXkx-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 581,
+          "like_count": 8395,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2641
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

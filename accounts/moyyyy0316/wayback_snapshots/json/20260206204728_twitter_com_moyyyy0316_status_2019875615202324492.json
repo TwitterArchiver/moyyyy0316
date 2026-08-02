@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2019836855219626075",
+    "created_at": "2026-02-06T20:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T21:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019875615202324492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829229897195368455",
+          "start": 0,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019875615202324492",
+    "in_reply_to_user_id": "1829229897195368455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019836855219626075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVOTVTOVO_3 小宝得了玉米症"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2019836849100058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfm6abacAAQXAy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2019836855219626075",
+        "created_at": "2026-02-06T20:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T21:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019875615202324492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829229897195368455",
+              "start": 0,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019875615202324492",
+        "in_reply_to_user_id": "1829229897195368455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019836855219626075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVOTVTOVO_3 小宝得了玉米症"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019836849100058624"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019836855219626075",
+        "created_at": "2026-02-06T18:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019836855219626075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Udlb78pZOF",
+              "end": 23,
+              "expanded_url": "https://x.com/OVOTVTOVO_3/status/2019836855219626075/photo/1",
+              "media_key": "3_2019836849100058624",
+              "start": 0,
+              "url": "https://t.co/Udlb78pZOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019836855219626075",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Udlb78pZOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 51,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 75
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？？？",
+        "id": "1829229897195368455",
+        "name": "用户2778",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014729781477310470/GDBRMlnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 32,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1522
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

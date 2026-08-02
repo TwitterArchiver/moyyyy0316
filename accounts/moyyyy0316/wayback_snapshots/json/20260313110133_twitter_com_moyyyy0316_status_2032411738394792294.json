@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2032390051766948213",
+    "created_at": "2026-03-13T11:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032411738394792294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766084836572172288",
+          "start": 0,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032411738394792294",
+    "in_reply_to_user_id": "1766084836572172288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032390051766948213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smertkakput12 唇钉好酷！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4066,
+        "height": 1280,
+        "media_key": "13_2032389985878654977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032389985878654977/img/_qDZNbxYjTIjkJ9T.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032389985878654977/vid/avc1/320x568/-eQK9FyY4dmadeaF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032389985878654977/vid/avc1/480x852/BCxwPEVZvpyCb6Qw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032389985878654977/vid/avc1/720x1280/Td_QOexufd4tqIMi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032389985878654977/pl/AUCVP6sMM4mjhtIM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2032390051766948213",
+        "created_at": "2026-03-13T11:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032411738394792294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766084836572172288",
+              "start": 0,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032411738394792294",
+        "in_reply_to_user_id": "1766084836572172288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032390051766948213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smertkakput12 唇钉好酷！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032389985878654977"
+          ]
+        },
+        "author_id": "1766084836572172288",
+        "conversation_id": "2032390051766948213",
+        "created_at": "2026-03-13T09:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032390051766948213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaigPdP70g",
+              "end": 35,
+              "expanded_url": "https://x.com/Smertkakput12/status/2032390051766948213/video/1",
+              "media_key": "13_2032389985878654977",
+              "start": 12,
+              "url": "https://t.co/NaigPdP70g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032390051766948213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我互fo！我正在漂发 https://t.co/NaigPdP70g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 102,
+          "like_count": 635,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 169
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗和女友姐日常、想互fo我就會直接關注🥺🏳️‍⚧️🏳️‍🌈友好、田力滚 …直fo查成分回",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 524,
+          "like_count": 960,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 761
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

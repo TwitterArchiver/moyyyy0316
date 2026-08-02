@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022726955788087296"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2022726958875066768",
+    "created_at": "2026-02-14T17:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022726958875066768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7fVCxcwOX",
+          "end": 87,
+          "expanded_url": "https://x.com/moyyyy0316/status/2022726958875066768/photo/1",
+          "media_key": "3_2022726955788087296",
+          "start": 64,
+          "url": "https://t.co/N7fVCxcwOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022726958875066768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "维多利亚港的雾气爬上我的睫毛，整个城市像泡在咸涩的泪水里。我伸手去摸电梯的钢壁，金属表面沁出细密的水珠，如同香港永不结痂的伤口 https://t.co/N7fVCxcwOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2022726955788087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIrcw1bMAAQDBB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022726955788087296"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2022726958875066768",
+        "created_at": "2026-02-14T17:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022726958875066768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7fVCxcwOX",
+              "end": 87,
+              "expanded_url": "https://x.com/moyyyy0316/status/2022726958875066768/photo/1",
+              "media_key": "3_2022726955788087296",
+              "start": 64,
+              "url": "https://t.co/N7fVCxcwOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022726958875066768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "维多利亚港的雾气爬上我的睫毛，整个城市像泡在咸涩的泪水里。我伸手去摸电梯的钢壁，金属表面沁出细密的水珠，如同香港永不结痂的伤口 https://t.co/N7fVCxcwOX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 71,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 107
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

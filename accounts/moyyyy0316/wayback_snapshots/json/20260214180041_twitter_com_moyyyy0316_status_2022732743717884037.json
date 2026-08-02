@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2022732743717884037",
+    "created_at": "2026-02-14T18:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T19:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022732743717884037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910008101371273225",
+          "start": 3,
+          "username": "paopao152025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022732743717884037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022287568390484474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paopao152025: 准备辍学去卖冥币了 身边那么多死了妈的一定能发财"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2022732743717884037",
+        "created_at": "2026-02-14T18:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022732743717884037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910008101371273225",
+              "start": 3,
+              "username": "paopao152025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022732743717884037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022287568390484474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paopao152025: 准备辍学去卖冥币了 身边那么多死了妈的一定能发财"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910008101371273225",
+        "conversation_id": "2022287568390484474",
+        "created_at": "2026-02-13T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022287568390484474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022287568390484474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 50871,
+          "like_count": 1642,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "准备辍学去卖冥币了 身边那么多死了妈的一定能发财"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 71,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 112
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "第一世@keeganlike第二世@paonew26都被封了\n骂我的都是傻逼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "keeganlike"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "paonew26"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "name": "泡泡",
+        "pinned_tweet_id": "2022369770134515861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019486017498361856/Jeabp5b1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 185,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 178
+        },
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

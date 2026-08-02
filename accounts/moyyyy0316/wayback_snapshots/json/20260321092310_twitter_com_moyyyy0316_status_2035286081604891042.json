@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2033100827754377728",
+    "created_at": "2026-03-21T09:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035286081604891042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759467211511775232",
+          "start": 0,
+          "username": "darilB2498971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035286081604891042",
+    "in_reply_to_user_id": "1759467211511775232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033488190032826513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darilB2498971 美团买药被查了，气煞我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2033100827754377728",
+        "created_at": "2026-03-21T09:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035286081604891042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759467211511775232",
+              "start": 0,
+              "username": "darilB2498971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035286081604891042",
+        "in_reply_to_user_id": "1759467211511775232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033488190032826513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darilB2498971 美团买药被查了，气煞我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759467211511775232",
+        "conversation_id": "2033100827754377728",
+        "created_at": "2026-03-16T10:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033488190032826513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942335596816670720",
+              "start": 0,
+              "username": "moyyyy0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033488190032826513",
+        "in_reply_to_user_id": "1942335596816670720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033100827754377728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moyyyy0316 你是不是天天在墙里发关键词，被大数据捕捉到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 106,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 180
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T06:37:53.000Z",
+        "description": "爱好是地狱笑话和猎奇段子",
+        "id": "1759467211511775232",
+        "location": "距离你0.3km",
+        "name": "多利-B",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759467360837378048/kjwPTWbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 13,
+          "like_count": 8393,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 3702
+        },
+        "username": "darilB2498971",
+        "verified": false
+      }
+    ]
+  }
+}

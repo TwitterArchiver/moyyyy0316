@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2023423484786069672",
+    "created_at": "2026-02-16T15:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023423484786069672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846566535885938688",
+          "start": 3,
+          "username": "tuhongshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023423484786069672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023361540527984684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuhongshu: oder夜年饭八道菜：\n\n1.凉愈拌美片\n2.清蒸普巴瑞林\n3.红烧白兔\n4.爆炒美金刚\n5.白切1161\n6.香烤复方草甘片\n7.炖金刚烷胺\n8.冰镇来司苯乙胺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2023423484786069672",
+        "created_at": "2026-02-16T15:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023423484786069672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846566535885938688",
+              "start": 3,
+              "username": "tuhongshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023423484786069672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023361540527984684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuhongshu: oder夜年饭八道菜：\n\n1.凉愈拌美片\n2.清蒸普巴瑞林\n3.红烧白兔\n4.爆炒美金刚\n5.白切1161\n6.香烤复方草甘片\n7.炖金刚烷胺\n8.冰镇来司苯乙胺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846566535885938688",
+        "conversation_id": "2023361540527984684",
+        "created_at": "2026-02-16T11:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023361540527984684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023361540527984684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder夜年饭八道菜：\n\n1.凉愈拌美片\n2.清蒸普巴瑞林\n3.红烧白兔\n4.爆炒美金刚\n5.白切1161\n6.香烤复方草甘片\n7.炖金刚烷胺\n8.冰镇来司苯乙胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 82,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 128
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T14:59:16.000Z",
+        "description": "09 #overdose 同类求互fo 精神病患者 阴暗逼 自伤 在线找深交\n \n门槛妹（求过🚪）💰52＋v  💰152 虚恋 主动分享生活照片  💰520 解锁线下\n吐点黑水",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 3,
+                "tag": "overdose"
+              }
+            ]
+          }
+        },
+        "id": "1846566535885938688",
+        "name": "uvu",
+        "pinned_tweet_id": "2021215092918898812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931867698730053632/9RVRimNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 60,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 82
+        },
+        "username": "tuhongshu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2028807740190245118",
+    "created_at": "2026-03-04T20:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T21:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029297655562826112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029297655562826112",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028807740190245118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 蹲后续"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2028807728290988032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfF4TpaAAAYspg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2028807740190245118",
+        "created_at": "2026-03-04T20:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029297655562826112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029297655562826112",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028807740190245118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 蹲后续"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028807728290988032"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "conversation_id": "2028807740190245118",
+        "created_at": "2026-03-03T12:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028807740190245118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VeE4DiTmF6",
+              "end": 29,
+              "expanded_url": "https://x.com/daozhir/status/2028807740190245118/photo/1",
+              "media_key": "3_2028807728290988032",
+              "start": 6,
+              "url": "https://t.co/VeE4DiTmF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028807740190245118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2283,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了 试试 https://t.co/VeE4DiTmF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 80,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 149
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "小倒丨16岁丨顺性别女性丨lesbian丨sub 丨 overdose丨双相情感障碍丨LGBTQ+全友好丨 fo同类 没fo私我丨欢迎找我聊聊天丨请多关照",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11179982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/11179982",
+                "start": 0,
+                "url": "https://t.co/pHdQ49rVOA"
+              }
+            ]
+          }
+        },
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "Hola",
+        "pinned_tweet_id": "2025485601240441319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 440,
+          "like_count": 1344,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/pHdQ49rVOA",
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

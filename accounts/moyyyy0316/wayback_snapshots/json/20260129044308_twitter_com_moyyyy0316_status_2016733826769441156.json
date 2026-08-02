@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1973305681873944642",
+    "created_at": "2026-01-29T04:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1726251305768017920",
+          "start": 0,
+          "username": "xi_ovo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016733826769441156",
+    "in_reply_to_user_id": "1726251305768017920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973305681873944642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_ovo_ 美的我有点那个了吧⸝⸝&gt;ヮ&lt;⸝⸝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973305668112359425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KXDNUaIAE9mXH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 502,
+        "media_key": "3_1973305668087263232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KXDNObMAAkWjK.jpg",
+        "width": 415
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973305668112359425",
+            "3_1973305668087263232"
+          ]
+        },
+        "author_id": "1726251305768017920",
+        "conversation_id": "1973305681873944642",
+        "created_at": "2025-10-01T08:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QB10kdlUCp",
+              "end": 23,
+              "expanded_url": "https://x.com/xi_ovo_/status/1973305681873944642/photo/1",
+              "media_key": "3_1973305668112359425",
+              "start": 0,
+              "url": "https://t.co/QB10kdlUCp"
+            },
+            {
+              "display_url": "pic.x.com/QB10kdlUCp",
+              "end": 23,
+              "expanded_url": "https://x.com/xi_ovo_/status/1973305681873944642/photo/1",
+              "media_key": "3_1973305668087263232",
+              "start": 0,
+              "url": "https://t.co/QB10kdlUCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973305681873944642",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28928,
+          "like_count": 623,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QB10kdlUCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 46
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T14:49:28.000Z",
+        "description": "(･∞･ﾐэ )Э",
+        "id": "1726251305768017920",
+        "name": "akn",
+        "pinned_tweet_id": "1973305681873944642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008203233164959744/e-8BRy3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 148,
+          "like_count": 1631,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 688
+        },
+        "username": "xi_ovo_",
+        "verified": false
+      }
+    ]
+  }
+}

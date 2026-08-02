@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016519866111725734",
+    "created_at": "2026-01-28T17:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T18:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016571590939746337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1918286867138789377",
+          "start": 0,
+          "username": "KK3787981974204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016571590939746337",
+    "in_reply_to_user_id": "1918286867138789377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016519866111725734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK3787981974204 🤔好像是12t玉米片，没啥感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016519866111725734",
+        "created_at": "2026-01-28T17:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016571590939746337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1918286867138789377",
+              "start": 0,
+              "username": "KK3787981974204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016571590939746337",
+        "in_reply_to_user_id": "1918286867138789377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016519866111725734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK3787981974204 🤔好像是12t玉米片，没啥感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918286867138789377",
+        "conversation_id": "2016519866111725734",
+        "created_at": "2026-01-28T14:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016519866111725734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016519866111725734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇大家第一次od都是多少劑量呀（？🤔想想我第一次od他媽在政治期中考試上，一次整了普瑞2400mg，飛起沒多久後就開始一直吐了。。。然後在廁所差點吐暈過去，一個小時我去廁所不下12次。後面去買了止吐的藥才停。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 37
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:50:13.000Z",
+        "description": "infp｜繁中｜od｜自傷｜負面｜選fo｜🚪25純綠",
+        "id": "1918286867138789377",
+        "location": "日本 東京",
+        "name": "一滴淚的距離有多遠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016133947248316416/mSwipN5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 37,
+          "like_count": 1112,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 178
+        },
+        "username": "KK3787981974204",
+        "verified": false
+      }
+    ]
+  }
+}

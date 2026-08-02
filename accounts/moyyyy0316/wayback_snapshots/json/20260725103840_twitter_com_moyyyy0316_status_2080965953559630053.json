@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080965924677713920"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2080965953559630053",
+    "created_at": "2026-07-25T10:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080965953559630053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NIDRyuAdf1",
+          "end": 53,
+          "expanded_url": "https://x.com/moyyyy0316/status/2080965953559630053/video/1",
+          "media_key": "13_2080965924677713920",
+          "start": 30,
+          "url": "https://t.co/NIDRyuAdf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080965953559630053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蒽这是在家被迫戒药时期  熬过pr戒断反应感觉自己特别牛逼 https://t.co/NIDRyuAdf1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1280,
+        "media_key": "13_2080965924677713920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080965924677713920/img/HUsTiXPoSXv_hITH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080965924677713920/vid/avc1/320x568/izaPwJSUdoKSKzd4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080965924677713920/vid/avc1/480x852/c6ZNtL72FfAwyX-R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080965924677713920/vid/avc1/720x1280/mehhOZvLG7Jg3_E2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080965924677713920/pl/e-w4_Lus-3hB_I9J.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080965924677713920"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2080965953559630053",
+        "created_at": "2026-07-25T10:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080965953559630053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIDRyuAdf1",
+              "end": 53,
+              "expanded_url": "https://x.com/moyyyy0316/status/2080965953559630053/video/1",
+              "media_key": "13_2080965924677713920",
+              "start": 30,
+              "url": "https://t.co/NIDRyuAdf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080965953559630053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蒽这是在家被迫戒药时期  熬过pr戒断反应感觉自己特别牛逼 https://t.co/NIDRyuAdf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小困(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 182,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

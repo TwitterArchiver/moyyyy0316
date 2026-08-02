@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016537278014009537",
+    "created_at": "2026-01-28T18:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016573535955923450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016573535955923450",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016537278014009537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 吃完会顶着困意暴食|•́ω•̀ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016537278014009537",
+        "created_at": "2026-01-28T18:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016573535955923450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016573535955923450",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016537278014009537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 吃完会顶着困意暴食|•́ω•̀ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2016537278014009537",
+        "created_at": "2026-01-28T15:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016537278014009537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016537278014009537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平真的好难吃，，，一点也不喜欢，，国产的还是进口的都感觉苦苦的（没尝过）喹硫平吃的感觉会很绝望，，吃完我变成大胃袋了戒断好难，不喜欢戒药，激素好讨厌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 39
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "我是最牛逼的生物🔪\n- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩-\n高度活跃互联网！想交朋友！互fo捏(^o^)/\n（我是低齡憂鬱糖人大傻福，實在抱歉！）\n（如果看到我连续发了很多条帖子请立马叫我去学习！）\n很多不良嗜好 -12现役初中生",
+        "id": "1956544219751063552",
+        "location": "你看看你身后呢",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2012134116444295316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011083699753000960/YuM05dcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 77,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 224
+        },
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

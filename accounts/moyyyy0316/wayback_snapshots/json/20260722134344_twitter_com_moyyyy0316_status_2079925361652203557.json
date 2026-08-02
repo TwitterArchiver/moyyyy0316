@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2079925361652203557",
+    "created_at": "2026-07-22T13:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079925361652203557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079925361652203557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "执着就像发了炎的耳洞 我始终不甘心就让它这样愈合  我一次次涂抹着药膏 又一次次把耳钉戳向红肿的耳洞 任由它反复结痂再流血 痛 它当然会让我感觉到痛苦 所以我更不可能轻易的放弃它 就算堵了我也要硬穿过去 没有意义的事 只要我想 我也要硬撑到底 让我学会平淡的接受每一个人的离开 或许我做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2079925361652203557",
+        "created_at": "2026-07-22T13:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079925361652203557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079925361652203557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "执着就像发了炎的耳洞 我始终不甘心就让它这样愈合  我一次次涂抹着药膏 又一次次把耳钉戳向红肿的耳洞 任由它反复结痂再流血 痛 它当然会让我感觉到痛苦 所以我更不可能轻易的放弃它 就算堵了我也要硬穿过去 没有意义的事 只要我想 我也要硬撑到底 让我学会平淡的接受每一个人的离开 或许我做不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小困(=^-ω-^=)︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 174,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

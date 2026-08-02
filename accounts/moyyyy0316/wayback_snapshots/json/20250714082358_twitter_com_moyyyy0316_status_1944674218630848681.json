@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1944674218630848681",
+    "created_at": "2025-07-14T08:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944674218630848681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944674218630848681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起和男朋友一第次见面吃饭。因为挑食陪我找餐厅到九点多，上菜给我撕了一块很肥的鸡腿肉“第一口鸡腿给宝宝吃”，然后一脸谄媚的看着我，因为有点小感动所以不敢说我不吃鸡肉…\n真的很难吃。一股药味混着肉腥味的鸡油，和吃起来滑滑的肉……\n蒽…因为这件事现在两年了依旧不敢说我不吃鸡肉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1944674218630848681",
+        "created_at": "2025-07-14T08:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944674218630848681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944674218630848681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起和男朋友一第次见面吃饭。因为挑食陪我找餐厅到九点多，上菜给我撕了一块很肥的鸡腿肉“第一口鸡腿给宝宝吃”，然后一脸谄媚的看着我，因为有点小感动所以不敢说我不吃鸡肉…\n真的很难吃。一股药味混着肉腥味的鸡油，和吃起来滑滑的肉……\n蒽…因为这件事现在两年了依旧不敢说我不吃鸡肉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。可以叫我小y，超级无敌困,欢迎来找我玩呀\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

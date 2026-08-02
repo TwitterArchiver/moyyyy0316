@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026572699125047296"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2026572702992191554",
+    "created_at": "2026-02-25T08:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026572702992191554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "2001286547791101953",
+          "start": 17,
+          "username": "bai94757"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jzzf1tfOHK",
+          "end": 50,
+          "expanded_url": "https://x.com/moyyyy0316/status/2026572702992191554/photo/1",
+          "media_key": "3_2026572699125047296",
+          "start": 27,
+          "url": "https://t.co/jzzf1tfOHK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026572702992191554",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已和小白见面ദി˶ｰ̀֊ｰ́ )✧@bai94757 https://t.co/jzzf1tfOHK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_2026572699125047296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_VIfLaYAAZKHn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026572699125047296"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2026572702992191554",
+        "created_at": "2026-02-25T08:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026572702992191554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2001286547791101953",
+              "start": 17,
+              "username": "bai94757"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzzf1tfOHK",
+              "end": 50,
+              "expanded_url": "https://x.com/moyyyy0316/status/2026572702992191554/photo/1",
+              "media_key": "3_2026572699125047296",
+              "start": 27,
+              "url": "https://t.co/jzzf1tfOHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026572702992191554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已和小白见面ദി˶ｰ̀֊ｰ́ )✧@bai94757 https://t.co/jzzf1tfOHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 89,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 143
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T13:42:19.000Z",
+        "description": "",
+        "id": "2001286547791101953",
+        "name": "知白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016596632318726144/o6TVOh0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "bai94757",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2021987108085456898"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2021987706176479322",
+    "created_at": "2026-02-12T16:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021987706176479322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AVxYBObACS",
+          "end": 39,
+          "expanded_url": "https://x.com/moyyyy0316/status/2021987706176479322/video/1",
+          "media_key": "7_2021987108085456898",
+          "start": 16,
+          "url": "https://t.co/AVxYBObACS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021987706176479322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小猫困困的 我也是Z☡zᶻ ⌁ https://t.co/AVxYBObACS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1280,
+        "media_key": "7_2021987108085456898",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021987108085456898/pu/img/S2HSvi9k0CLT0sTX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021987108085456898/pu/vid/avc1/320x568/INdnM2On0YxmnxV2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021987108085456898/pu/vid/avc1/480x852/bKAgqW9ivMTqbo3L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021987108085456898/pu/vid/avc1/720x1280/g6y0jMbYVki6rZJd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021987108085456898/pu/pl/S50-gjABfL_knQzU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021987108085456898"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2021987706176479322",
+        "created_at": "2026-02-12T16:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021987706176479322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVxYBObACS",
+              "end": 39,
+              "expanded_url": "https://x.com/moyyyy0316/status/2021987706176479322/video/1",
+              "media_key": "7_2021987108085456898",
+              "start": 16,
+              "url": "https://t.co/AVxYBObACS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021987706176479322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫困困的 我也是Z☡zᶻ ⌁ https://t.co/AVxYBObACS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 66,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 96
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

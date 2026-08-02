@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1944488378491351389",
+    "created_at": "2025-07-13T20:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T21:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944488378491351389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944488378491351389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现我最早认识到的文艺男是我舅舅…\n一早便逃离从小长大的地方了无音讯，把陪伴重男轻女的父母的责任全部丢给自己妹妹。在北京和一个家门不幸的温良女人结婚，当然我对这个舅妈的印象很少，似乎是一个很温柔的黑长直，身上有种令人安心的味道。然而不久，这个温柔的女人跳楼走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1944488378491351389",
+        "created_at": "2025-07-13T20:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T21:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944488378491351389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944488378491351389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现我最早认识到的文艺男是我舅舅…\n一早便逃离从小长大的地方了无音讯，把陪伴重男轻女的父母的责任全部丢给自己妹妹。在北京和一个家门不幸的温良女人结婚，当然我对这个舅妈的印象很少，似乎是一个很温柔的黑长直，身上有种令人安心的味道。然而不久，这个温柔的女人跳楼走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。可以叫我小y，超级无敌困,欢迎来找我玩呀\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

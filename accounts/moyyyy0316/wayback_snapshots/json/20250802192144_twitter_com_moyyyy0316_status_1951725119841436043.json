@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1951725119841436043",
+    "created_at": "2025-08-02T19:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T20:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951725119841436043"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951725119841436043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "L先生总会对我说我是他养的第一个孩子，也总是认为他对我的爱还不够多。其实我在心里偷偷窃喜，一个人在异国他乡，没有可以交心的朋友，和家庭断连，只有我会不停的买机票，一个人来回几千公里去找他，我们早已成为互相的精神支柱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1951725119841436043",
+        "created_at": "2025-08-02T19:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T20:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951725119841436043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951725119841436043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "L先生总会对我说我是他养的第一个孩子，也总是认为他对我的爱还不够多。其实我在心里偷偷窃喜，一个人在异国他乡，没有可以交心的朋友，和家庭断连，只有我会不停的买机票，一个人来回几千公里去找他，我们早已成为互相的精神支柱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。可以叫我小y，超级无敌困,欢迎来找我玩呀\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

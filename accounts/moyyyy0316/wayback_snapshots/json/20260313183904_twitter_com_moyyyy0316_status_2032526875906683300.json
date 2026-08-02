@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2032402524125434185",
+    "created_at": "2026-03-13T18:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032526875906683300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032526875906683300",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032402524125434185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 宝宝我可以跟你互fo嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2032402524125434185",
+        "created_at": "2026-03-13T18:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032526875906683300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032526875906683300",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032402524125434185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 宝宝我可以跟你互fo嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593267144803901445",
+        "conversation_id": "2032402524125434185",
+        "created_at": "2026-03-13T10:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032402524125434185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032402524125434185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12455,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有小女孩想跟我互关的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 107,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 172
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，恋乳，绝望的直女，欢迎互fo，关注你是想跟你一起玩",
+        "id": "1593267144803901445",
+        "name": ".",
+        "pinned_tweet_id": "2025564498548133941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 427,
+          "like_count": 3535,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1278
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

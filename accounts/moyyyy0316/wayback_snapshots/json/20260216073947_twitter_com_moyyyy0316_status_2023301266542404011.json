@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2022963707035459911",
+    "created_at": "2026-02-16T07:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023301266542404011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182989706948165632",
+          "start": 0,
+          "username": "dustthepoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023301266542404011",
+    "in_reply_to_user_id": "1182989706948165632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022963707035459911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dustthepoet 我不行了假死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022963700127485952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMCxGOb0AAb9Gu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2022963707035459911",
+        "created_at": "2026-02-16T07:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023301266542404011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182989706948165632",
+              "start": 0,
+              "username": "dustthepoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023301266542404011",
+        "in_reply_to_user_id": "1182989706948165632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022963707035459911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dustthepoet 我不行了假死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022963700127485952"
+          ]
+        },
+        "author_id": "1182989706948165632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022963707035459911",
+        "created_at": "2026-02-15T09:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022963707035459911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5OwcUTdH0",
+              "end": 38,
+              "expanded_url": "https://x.com/dustthepoet/status/2022963707035459911/photo/1",
+              "media_key": "3_2022963700127485952",
+              "start": 15,
+              "url": "https://t.co/e5OwcUTdH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022963707035459911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3683,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "握草他是复活了还是谁登他号了 https://t.co/e5OwcUTdH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 82,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 124
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T12:01:46.000Z",
+        "description": "我爱你 离开你我将一秒也活不下去@evelyn_notfound",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "evelyn_notfound"
+              }
+            ]
+          }
+        },
+        "id": "1182989706948165632",
+        "location": "Your heart",
+        "name": "你有在药效中吗",
+        "pinned_tweet_id": "1911666309072408929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022750231763521538/ecNjpZsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 394,
+          "like_count": 7022,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2012
+        },
+        "username": "dustthepoet",
+        "verified": false
+      }
+    ]
+  }
+}

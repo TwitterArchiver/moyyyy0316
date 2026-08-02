@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2032216497414938806",
+    "created_at": "2026-03-13T18:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032525795357597839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032525795357597839",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032216497414938806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 美美嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27653,
+        "height": 720,
+        "media_key": "13_2032216409254817792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032216409254817792/img/LyCwrqizMg4qVuv2.jpg",
+        "public_metrics": {
+          "view_count": 60
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032216409254817792/vid/avc1/320x320/EtQrFXJocarkDhAw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032216409254817792/vid/avc1/540x540/GgMPjlOmqjhapZca.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032216409254817792/vid/avc1/720x720/kIIou6ksrZrSvQpc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032216409254817792/pl/eMmejoYjkro0ry7i.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2032216497414938806",
+        "created_at": "2026-03-13T18:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032525795357597839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032525795357597839",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032216497414938806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 美美嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032216409254817792"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2032216497414938806",
+        "created_at": "2026-03-12T22:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032216497414938806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrRLrulasP",
+              "end": 44,
+              "expanded_url": "https://x.com/maitakoo/status/2032216497414938806/video/1",
+              "media_key": "13_2032216409254817792",
+              "start": 21,
+              "url": "https://t.co/FrRLrulasP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032216497414938806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "差点割到脂肪下面。疼疼疼 ՞ඉ  ̫ඉ՞ https://t.co/FrRLrulasP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 170
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo",
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2026673425104953549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 125,
+          "like_count": 2128,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1581
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

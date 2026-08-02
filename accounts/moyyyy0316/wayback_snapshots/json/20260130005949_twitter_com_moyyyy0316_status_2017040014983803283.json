@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016868815095943434",
+    "created_at": "2026-01-30T00:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017040014983803283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939979157594664960",
+          "start": 0,
+          "username": "xioy1520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017040014983803283",
+    "in_reply_to_user_id": "1939979157594664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016868815095943434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy1520 老大好厉害！我上劲了键盘都按不明白Orz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2016868784276230144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1beTVb0AAUq-x.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016868815095943434",
+        "created_at": "2026-01-30T00:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017040014983803283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939979157594664960",
+              "start": 0,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017040014983803283",
+        "in_reply_to_user_id": "1939979157594664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016868815095943434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy1520 老大好厉害！我上劲了键盘都按不明白Orz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016868784276230144"
+          ]
+        },
+        "author_id": "1939979157594664960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016868815095943434",
+        "created_at": "2026-01-29T13:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016868815095943434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Qsqy1RXeG",
+              "end": 35,
+              "expanded_url": "https://x.com/xioy1520/status/2016868815095943434/photo/1",
+              "media_key": "3_2016868784276230144",
+              "start": 12,
+              "url": "https://t.co/3Qsqy1RXeG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016868815095943434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我起药效了还能杀13个 https://t.co/3Qsqy1RXeG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 41,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 54
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:27:37.000Z",
+        "description": "邪恶人格@cha317081419353",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "cha317081419353"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muming95389",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muming95389",
+                "start": 0,
+                "url": "https://t.co/9wriK9Pqat"
+              }
+            ]
+          }
+        },
+        "id": "1939979157594664960",
+        "location": "=￣ω￣=",
+        "name": "眠",
+        "pinned_tweet_id": "2016198165591150646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015434596712923136/dcvsAuAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 35,
+          "like_count": 1554,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/9wriK9Pqat",
+        "username": "xioy1520",
+        "verified": false
+      }
+    ]
+  }
+}

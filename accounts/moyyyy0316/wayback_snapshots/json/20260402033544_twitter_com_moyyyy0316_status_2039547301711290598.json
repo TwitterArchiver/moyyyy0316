@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2039547301711290598",
+    "created_at": "2026-04-02T03:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039547301711290598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039547301711290598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039125409804283973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianXue525: 依赖药物的我们还会有未来吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2039547301711290598",
+        "created_at": "2026-04-02T03:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039547301711290598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039547301711290598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039125409804283973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianXue525: 依赖药物的我们还会有未来吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2039125409804283973",
+        "created_at": "2026-03-31T23:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T00:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039125409804283973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039125409804283973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2588,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "依赖药物的我们还会有未来吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 142,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 192
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 312,
+          "like_count": 489,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

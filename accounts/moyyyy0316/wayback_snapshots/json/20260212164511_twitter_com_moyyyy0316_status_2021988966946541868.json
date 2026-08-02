@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2021450285902856224",
+    "created_at": "2026-02-12T16:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021988966946541868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987387349785821184",
+          "start": 0,
+          "username": "episodesew3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021988966946541868",
+    "in_reply_to_user_id": "1987387349785821184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021450285902856224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@episodesew3 想哭的时候就要哭出来呀，摸摸宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2021450285902856224",
+        "created_at": "2026-02-12T16:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021988966946541868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987387349785821184",
+              "start": 0,
+              "username": "episodesew3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021988966946541868",
+        "in_reply_to_user_id": "1987387349785821184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021450285902856224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@episodesew3 想哭的时候就要哭出来呀，摸摸宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987387349785821184",
+        "conversation_id": "2021450285902856224",
+        "created_at": "2026-02-11T05:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021450285902856224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021450285902856224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 941,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ㅍ_ㅍ有时候总是控制不住的想哭\n一下子就情绪崩溃了 好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 66,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 99
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T05:18:56.000Z",
+        "description": "情绪垃圾桶…谢谢你们听我的碎碎念^ω^",
+        "id": "1987387349785821184",
+        "name": "episode",
+        "pinned_tweet_id": "2012810986575511677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017502017657405440/Pq2vgiQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 6,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 188
+        },
+        "username": "episodesew3",
+        "verified": false
+      }
+    ]
+  }
+}

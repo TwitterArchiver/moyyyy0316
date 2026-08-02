@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2080188002039648661",
+    "created_at": "2026-07-23T07:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080188002039648661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080188002039648661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萌妹有两个特征 一是记性不好,二是我忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2080188002039648661",
+        "created_at": "2026-07-23T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080188002039648661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080188002039648661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌妹有两个特征 一是记性不好,二是我忘了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小困(=^-ω-^=)︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 164,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

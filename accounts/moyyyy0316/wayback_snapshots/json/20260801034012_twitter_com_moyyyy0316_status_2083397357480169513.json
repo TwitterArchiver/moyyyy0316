@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083397325607882752"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2083397357480169513",
+    "created_at": "2026-08-01T03:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083397357480169513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2PbtePiX6C",
+          "end": 45,
+          "expanded_url": "https://x.com/moyyyy0316/status/2083397357480169513/video/1",
+          "media_key": "13_2083397325607882752",
+          "start": 22,
+          "url": "https://t.co/2PbtePiX6C"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0151348954a4147f"
+    },
+    "id": "2083397357480169513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们不是能谈论眼泪的关系，我也不太了解你。 https://t.co/2PbtePiX6C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [0151348954a4147f].",
+      "parameter": "geo.place_id",
+      "resource_id": "0151348954a4147f",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "0151348954a4147f"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17900,
+        "height": 720,
+        "media_key": "13_2083397325607882752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083397325607882752/img/avhXQcB4o6XHy7X_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083397325607882752/vid/avc1/480x270/DkUCsei6ROOUZip8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083397325607882752/vid/avc1/640x360/7v_uHbrHsvlqBNK4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083397325607882752/vid/avc1/1280x720/H67rGHuhXq3yxJFK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083397325607882752/pl/ZBzwE3sUNBUk3cjp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083397325607882752"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2083397357480169513",
+        "created_at": "2026-08-01T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083397357480169513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PbtePiX6C",
+              "end": 45,
+              "expanded_url": "https://x.com/moyyyy0316/status/2083397357480169513/video/1",
+              "media_key": "13_2083397325607882752",
+              "start": 22,
+              "url": "https://t.co/2PbtePiX6C"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "2083397357480169513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们不是能谈论眼泪的关系，我也不太了解你。 https://t.co/2PbtePiX6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 187,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

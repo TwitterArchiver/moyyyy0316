@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016759362476556289"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016759401315782713",
+    "created_at": "2026-01-29T06:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016759401315782713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYFxVQZdwu",
+          "end": 46,
+          "expanded_url": "https://x.com/moyyyy0316/status/2016759401315782713/video/1",
+          "media_key": "7_2016759362476556289",
+          "start": 23,
+          "url": "https://t.co/sYFxVQZdwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016759401315782713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个小y又在装可爱⸝⸝&gt;ヮ&lt;⸝⸝ https://t.co/sYFxVQZdwu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15166,
+        "height": 1280,
+        "media_key": "7_2016759362476556289",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016759362476556289/pu/img/Iszf6fa_qPVImCUP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016759362476556289/pu/vid/avc1/320x568/DEMqwZtvLDBpBAHX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016759362476556289/pu/vid/avc1/480x852/7lYODe0qnItOBtSE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016759362476556289/pu/vid/avc1/720x1280/MDrWCFrFIQ9HXuvJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016759362476556289/pu/pl/vKX1bErX5p-Hvmri.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016759362476556289"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016759401315782713",
+        "created_at": "2026-01-29T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016759401315782713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYFxVQZdwu",
+              "end": 46,
+              "expanded_url": "https://x.com/moyyyy0316/status/2016759401315782713/video/1",
+              "media_key": "7_2016759362476556289",
+              "start": 23,
+              "url": "https://t.co/sYFxVQZdwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016759401315782713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个小y又在装可爱⸝⸝&gt;ヮ&lt;⸝⸝ https://t.co/sYFxVQZdwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 47
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

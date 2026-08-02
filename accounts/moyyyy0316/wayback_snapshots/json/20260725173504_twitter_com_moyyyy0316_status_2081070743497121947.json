@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2081069092560425068",
+    "created_at": "2026-07-25T17:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081070743497121947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844768000416571405",
+          "start": 0,
+          "username": "fog1056149"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0151348954a4147f"
+    },
+    "id": "2081070743497121947",
+    "in_reply_to_user_id": "1844768000416571405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081069092560425068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fog1056149 好忧郁的穿搭！"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [0151348954a4147f].",
+      "parameter": "geo.place_id",
+      "resource_id": "0151348954a4147f",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "0151348954a4147f"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081069089615990784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFxT5-bUAAO7px.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2081069092560425068",
+        "created_at": "2026-07-25T17:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081070743497121947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844768000416571405",
+              "start": 0,
+              "username": "fog1056149"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "2081070743497121947",
+        "in_reply_to_user_id": "1844768000416571405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081069092560425068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fog1056149 好忧郁的穿搭！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081069089615990784"
+          ]
+        },
+        "author_id": "1844768000416571405",
+        "conversation_id": "2081069092560425068",
+        "created_at": "2026-07-25T17:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081069092560425068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "长发男"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lk63P8PYI5",
+              "end": 46,
+              "expanded_url": "https://x.com/fog1056149/status/2081069092560425068/photo/1",
+              "media_key": "3_2081069089615990784",
+              "start": 23,
+              "url": "https://t.co/Lk63P8PYI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081069092560425068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就一直发库存，直到没有傻逼恶心我 #长发男 https://t.co/Lk63P8PYI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 184,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T15:52:38.000Z",
+        "description": "长发\n\n infp  switch 我很奇怪",
+        "id": "1844768000416571405",
+        "location": "025",
+        "name": "fog",
+        "pinned_tweet_id": "2036237226330505533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066092855974862848/ImsT8H06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1421,
+          "like_count": 9376,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "fog1056149",
+        "verified": false
+      }
+    ]
+  }
+}

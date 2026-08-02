@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2022570368318554325",
+    "created_at": "2026-02-14T17:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022731572626235664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014799643159494658",
+          "start": 0,
+          "username": "qiqin239298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022731572626235664",
+    "in_reply_to_user_id": "2014799643159494658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022570368318554325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin239298 就算很漂亮的人穿了我也会莫名脑补到牛（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2022570368318554325",
+        "created_at": "2026-02-14T17:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022731572626235664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014799643159494658",
+              "start": 0,
+              "username": "qiqin239298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022731572626235664",
+        "in_reply_to_user_id": "2014799643159494658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022570368318554325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin239298 就算很漂亮的人穿了我也会莫名脑补到牛（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014799643159494658",
+        "conversation_id": "2022570368318554325",
+        "created_at": "2026-02-14T07:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022570368318554325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022570368318554325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻中隔钉真的会很像牛吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 71,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 111
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "08| Ftx 精神病|hsp 无害无需清洗可即食 od|sh|ed ht160 cw39 gw36 自毁倾向 社交障碍 休学 除非被吞了看不到基本都会回",
+        "id": "2014799643159494658",
+        "location": "可口美味的小衍",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2020003072748216343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 156,
+          "like_count": 3204,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 339
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "1943111595145728461",
+    "created_at": "2025-07-10T00:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T01:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943111595145728461"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943111595145728461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泡澡要小心了。一站起来头晕就没意识了，恢复意识的时候趴在地上，牙和唇钉磕碰把嘴磕裂了，好几把痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "1943111595145728461",
+        "created_at": "2025-07-10T00:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T01:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943111595145728461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943111595145728461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泡澡要小心了。一站起来头晕就没意识了，恢复意识的时候趴在地上，牙和唇钉磕碰把嘴磕裂了，好几把痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "成分复杂。每天超级无敌困,欢迎来找我玩喵\n甜筒是世界上最善良的食物🍦🍦🍦",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

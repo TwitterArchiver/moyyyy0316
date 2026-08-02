@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016541054007496781",
+    "created_at": "2026-01-28T15:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016541054007496781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945157928010604544",
+          "start": 3,
+          "username": "aiTvTing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016541054007496781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015917032064028815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiTvTing: 你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的身材好可以和你一起打游戏看动漫出cos还有钱的眼镜反差美少女 而非我这样的昼夜颠倒卧床不起又丑又疯还有精神病的死宅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016541054007496781",
+        "created_at": "2026-01-28T15:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016541054007496781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945157928010604544",
+              "start": 3,
+              "username": "aiTvTing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016541054007496781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015917032064028815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiTvTing: 你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的身材好可以和你一起打游戏看动漫出cos还有钱的眼镜反差美少女 而非我这样的昼夜颠倒卧床不起又丑又疯还有精神病的死宅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2015917032064028815",
+        "created_at": "2026-01-26T22:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T23:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015917032064028815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015917032064028815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16679,
+          "like_count": 316,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "你说你喜欢宅女 其实你喜欢的是有社交障碍只对你开朗可爱的身材好可以和你一起打游戏看动漫出cos还有钱的眼镜反差美少女 而非我这样的昼夜颠倒卧床不起又丑又疯还有精神病的死宅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "大家可以叫我小y呀！墙内不敢发的碎碎念/崩溃精神记录，甜筒是世界上最善良的食物🍦😋",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942336407823081473/OGgIehQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 28
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们找我互fo",
+        "id": "1945157928010604544",
+        "location": "🚪52",
+        "name": "操",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003555514010206211/Tk4wl8kH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 147,
+          "like_count": 447,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 400
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

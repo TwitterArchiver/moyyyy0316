@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2020476083104026822",
+    "created_at": "2026-02-08T19:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T20:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020574190735380655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014799643159494658",
+          "start": 0,
+          "username": "qiqin239298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020574190735380655",
+    "in_reply_to_user_id": "2014799643159494658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020478346925117896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin239298 笑的我有点不行了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020478346925117896].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020478346925117896",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020478346925117896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2020476083104026822",
+        "created_at": "2026-02-08T19:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020574190735380655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014799643159494658",
+              "start": 0,
+              "username": "qiqin239298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020574190735380655",
+        "in_reply_to_user_id": "2014799643159494658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020478346925117896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin239298 笑的我有点不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 54,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 88
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "08| Ftx 儿童时期就患上精神病的人⬆️ 无害无需清洗可即食 od|sh|ed ht160 cw39 gw36 自毁倾向 休学中 除非被吞了看不到基本都会回，暂时不加任何墙内",
+        "id": "2014799643159494658",
+        "location": "距离你5km",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2020003072748216343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 146,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 280
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

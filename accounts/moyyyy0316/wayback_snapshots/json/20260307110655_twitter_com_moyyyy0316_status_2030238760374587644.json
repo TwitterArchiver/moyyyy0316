@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2028848253052088742",
+    "created_at": "2026-03-07T11:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030238760374587644"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830123716229111808",
+          "start": 0,
+          "username": "wh1te_lie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030238760374587644",
+    "in_reply_to_user_id": "1830123716229111808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028848253052088742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wh1te_lie 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2028848123682971648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfqnoNXYAA2Ghi.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2028848253052088742",
+        "created_at": "2026-03-07T11:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030238760374587644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830123716229111808",
+              "start": 0,
+              "username": "wh1te_lie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030238760374587644",
+        "in_reply_to_user_id": "1830123716229111808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028848253052088742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wh1te_lie 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028848123682971648"
+          ]
+        },
+        "author_id": "1830123716229111808",
+        "conversation_id": "2028848253052088742",
+        "created_at": "2026-03-03T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028848253052088742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01p4s3yNVf",
+              "end": 30,
+              "expanded_url": "https://x.com/wh1te_lie/status/2028848253052088742/photo/1",
+              "media_key": "3_2028848123682971648",
+              "start": 7,
+              "url": "https://t.co/01p4s3yNVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028848253052088742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 452,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "啥时候能割手 https://t.co/01p4s3yNVf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 85,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 161
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:01:30.000Z",
+        "description": "4:27",
+        "id": "1830123716229111808",
+        "location": "青木原树海",
+        "name": "海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982537482668212224/sClsLgof_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 39,
+          "like_count": 10483,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 236
+        },
+        "username": "wh1te_lie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2016638456576000180",
+    "created_at": "2026-01-28T22:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T23:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016638674923114726"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016638674923114726",
+    "in_reply_to_user_id": "1942335596816670720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016638456576000180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不得劲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2016638453551878144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yJ_ShaUAABpdy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016638456576000180",
+        "created_at": "2026-01-28T22:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016638674923114726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016638674923114726",
+        "in_reply_to_user_id": "1942335596816670720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016638456576000180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不得劲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016638453551878144"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2016638456576000180",
+        "created_at": "2026-01-28T22:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016638456576000180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofFmXZYfms",
+              "end": 47,
+              "expanded_url": "https://x.com/moyyyy0316/status/2016638456576000180/photo/1",
+              "media_key": "3_2016638453551878144",
+              "start": 24,
+              "url": "https://t.co/ofFmXZYfms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016638456576000180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广东视觉系纯情女大,急急急ip深圳快来找我挂逼 https://t.co/ofFmXZYfms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱互of︱碎碎念︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}

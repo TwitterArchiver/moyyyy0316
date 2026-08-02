@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023710898897272832"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2023710945026158982",
+    "created_at": "2026-02-17T10:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023710945026158982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Vafwkg1t0",
+          "end": 65,
+          "expanded_url": "https://x.com/moyyyy0316/status/2023710945026158982/video/1",
+          "media_key": "7_2023710898897272832",
+          "start": 42,
+          "url": "https://t.co/1Vafwkg1t0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023710945026158982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下辈子我要变成一个尺寸不合适的戒指 摇摇欲坠戴在你的手上  让你随时都担心我的消失 https://t.co/1Vafwkg1t0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15069,
+        "height": 1280,
+        "media_key": "7_2023710898897272832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023710898897272832/pu/img/KTlKZwj5K9aBMou0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023710898897272832/pu/vid/avc1/320x568/Tk1S7SjTI8cq3M3P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023710898897272832/pu/vid/avc1/480x852/i01YAyGaZ6Xh2ozq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023710898897272832/pu/vid/avc1/720x1280/lof-HmmoJbzTE92W.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023710898897272832/pu/pl/Vc6MNya9m5NO1gcg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023710898897272832"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2023710945026158982",
+        "created_at": "2026-02-17T10:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023710945026158982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Vafwkg1t0",
+              "end": 65,
+              "expanded_url": "https://x.com/moyyyy0316/status/2023710945026158982/video/1",
+              "media_key": "7_2023710898897272832",
+              "start": 42,
+              "url": "https://t.co/1Vafwkg1t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023710945026158982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子我要变成一个尺寸不合适的戒指 摇摇欲坠戴在你的手上  让你随时都担心我的消失 https://t.co/1Vafwkg1t0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y︱od💊︱自餐🔪︱ed︱互of︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 83,
+          "like_count": 452,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 132
+        },
+        "username": "moyyyy0316",
+        "verified": false
+      }
+    ]
+  }
+}
