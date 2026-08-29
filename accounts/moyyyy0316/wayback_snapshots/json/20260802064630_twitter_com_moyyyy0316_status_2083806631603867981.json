@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2083806631603867981",
+    "created_at": "2026-08-02T06:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083806631603867981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/badapple7788/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/badapple7788/status/2083558617459122666",
+          "start": 4,
+          "url": "https://t.co/AfB0EO3Ms0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083806631603867981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083558617459122666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仙品！ https://t.co/AfB0EO3Ms0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2083806631603867981",
+        "created_at": "2026-08-02T06:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083806631603867981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/badapple7788/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/badapple7788/status/2083558617459122666",
+              "start": 4,
+              "url": "https://t.co/AfB0EO3Ms0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083806631603867981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083558617459122666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仙品！ https://t.co/AfB0EO3Ms0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083558617459122666",
+        "created_at": "2026-08-01T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083558617459122666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083558617459122666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽怪不得你们都抽蓝莓味中南海 原来是真的好抽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 193,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 343,
+          "like_count": 3245,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

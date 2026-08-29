@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083242354350202880"
+      ],
+      "media_source_tweet_id": [
+        "2083242359949554021"
+      ]
+    },
+    "author_id": "1942335596816670720",
+    "conversation_id": "2083817994493567461",
+    "created_at": "2026-08-02T07:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083817994493567461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872661399001866240",
+          "start": 3,
+          "username": "clarx333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6x9l26hCG",
+          "end": 75,
+          "expanded_url": "https://x.com/clarx333/status/2083242359949554021/photo/1",
+          "media_key": "3_2083242354350202880",
+          "start": 52,
+          "url": "https://t.co/j6x9l26hCG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083817994493567461",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3581
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083242359949554021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clarx333: Moi des que j’ai du temps libre.. 😵‍💫 https://t.co/j6x9l26hCG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2083242354350202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkp4kAXoAAOcL9.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083242354350202880"
+          ]
+        },
+        "author_id": "1872661399001866240",
+        "conversation_id": "2083242359949554021",
+        "created_at": "2026-07-31T17:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083242359949554021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6x9l26hCG",
+              "end": 61,
+              "expanded_url": "https://x.com/clarx333/status/2083242359949554021/photo/1",
+              "media_key": "3_2083242354350202880",
+              "start": 38,
+              "url": "https://t.co/j6x9l26hCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083242359949554021",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2404,
+          "impression_count": 1115871,
+          "like_count": 31204,
+          "quote_count": 153,
+          "reply_count": 258,
+          "retweet_count": 3581
+        },
+        "reply_settings": "everyone",
+        "text": "Moi des que j’ai du temps libre.. 😵‍💫 https://t.co/j6x9l26hCG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083242354350202880"
+          ],
+          "media_source_tweet_id": [
+            "2083242359949554021"
+          ]
+        },
+        "author_id": "1942335596816670720",
+        "conversation_id": "2083817994493567461",
+        "created_at": "2026-08-02T07:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083817994493567461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872661399001866240",
+              "start": 3,
+              "username": "clarx333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6x9l26hCG",
+              "end": 75,
+              "expanded_url": "https://x.com/clarx333/status/2083242359949554021/photo/1",
+              "media_key": "3_2083242354350202880",
+              "start": 52,
+              "url": "https://t.co/j6x9l26hCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083817994493567461",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3581
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083242359949554021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clarx333: Moi des que j’ai du temps libre.. 😵‍💫 https://t.co/j6x9l26hCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 193,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T15:11:01.000Z",
+        "description": "grosse kiffeuse https://t.co/OHp3Ed9Oro",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+UF6Kq1dkVdlhZ…",
+                "end": 39,
+                "expanded_url": "https://telegram.me/+UF6Kq1dkVdlhZGFi",
+                "start": 16,
+                "url": "https://t.co/OHp3Ed9Oro"
+              }
+            ]
+          }
+        },
+        "id": "1872661399001866240",
+        "name": "𝒞☘︎",
+        "pinned_tweet_id": "2042198753428328912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076749405982494720/2H1bEi_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15821,
+          "following_count": 118,
+          "like_count": 70999,
+          "listed_count": 9,
+          "media_count": 117,
+          "tweet_count": 4067
+        },
+        "url": "",
+        "username": "clarx333",
+        "verified": false
+      }
+    ]
+  }
+}

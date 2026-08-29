@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2083926239094681956",
+    "created_at": "2026-08-02T17:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083967785605136619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1801243849580556288",
+          "start": 0,
+          "username": "sixtenye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083967785605136619",
+    "in_reply_to_user_id": "1801243849580556288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083963680589324296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sixtenye 对噢是一次性的，名字叫黑龙冰，有点像泡泡糖味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2083926239094681956",
+        "created_at": "2026-08-02T17:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083967785605136619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1801243849580556288",
+              "start": 0,
+              "username": "sixtenye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083967785605136619",
+        "in_reply_to_user_id": "1801243849580556288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083963680589324296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sixtenye 对噢是一次性的，名字叫黑龙冰，有点像泡泡糖味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801243849580556288",
+        "conversation_id": "2083926239094681956",
+        "created_at": "2026-08-02T17:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083963680589324296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942335596816670720",
+              "start": 0,
+              "username": "moyyyy0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083963680589324296",
+        "in_reply_to_user_id": "1801243849580556288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083954764706881561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moyyyy0316 是什么味道的，这种是不能换内胆的嘛，味道怎么样啊，还有手机好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n欢迎来到困困殿下的朋友圈︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 194,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T13:23:34.000Z",
+        "description": "不吃香菜",
+        "id": "1801243849580556288",
+        "name": "十陆_SixtenYe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075769745819791360/XzJbJBzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 55,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "sixtenye",
+        "verified": false
+      }
+    ]
+  }
+}
