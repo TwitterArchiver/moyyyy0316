@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2085260672674500829",
+    "created_at": "2026-08-06T07:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085260672674500829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercyxvx1/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/mercyxvx1/status/2085239814610461032",
+          "start": 4,
+          "url": "https://t.co/x5ywO9SfRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085260672674500829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085239814610461032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怼。。 https://t.co/x5ywO9SfRP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2085260672674500829",
+        "created_at": "2026-08-06T07:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085260672674500829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyxvx1/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/mercyxvx1/status/2085239814610461032",
+              "start": 4,
+              "url": "https://t.co/x5ywO9SfRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085260672674500829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085239814610461032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怼。。 https://t.co/x5ywO9SfRP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082275840851845120",
+        "conversation_id": "2085239814610461032",
+        "created_at": "2026-08-06T05:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085239814610461032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085239814610461032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要嗑药才能维持正常的生活 这很痛苦 这太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n欢迎来到困困殿下的朋友圈︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 208,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "location": "💊🔪🩸",
+        "name": "Mercy",
+        "pinned_tweet_id": "2084517420405064088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 329,
+          "like_count": 855,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false
+      }
+    ]
+  }
+}

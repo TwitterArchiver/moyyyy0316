@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1942335596816670720",
+    "conversation_id": "2085187345268310155",
+    "created_at": "2026-08-06T16:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085396508732805270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994990848829001728",
+          "start": 0,
+          "username": "mogugugu789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085396508732805270",
+    "in_reply_to_user_id": "1994990848829001728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085395874142982578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mogugugu789 补，我是云南人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942335596816670720",
+        "conversation_id": "2085187345268310155",
+        "created_at": "2026-08-06T16:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085396508732805270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994990848829001728",
+              "start": 0,
+              "username": "mogugugu789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085396508732805270",
+        "in_reply_to_user_id": "1994990848829001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085395874142982578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mogugugu789 补，我是云南人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994990848829001728",
+        "conversation_id": "2085187345268310155",
+        "created_at": "2026-08-06T16:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085395874142982578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942335596816670720",
+              "start": 0,
+              "username": "moyyyy0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085395874142982578",
+        "in_reply_to_user_id": "1942335596816670720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085254722202857504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moyyyy0316 吊草的还是个山东人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-07T21:31:31.000Z",
+        "description": "可以叫我小y(=^-ω-^=)\n欢迎来到困困殿下的朋友圈︱od💊︱自餐🔪︱ed︱互fo︱碎碎念︱这个人超级自恋︱",
+        "id": "1942335596816670720",
+        "name": "困困殿下zzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016545599248826369/qVsaN7a8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 220,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "moyyyy0316",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T04:44:26.000Z",
+        "description": "a bad person",
+        "id": "1994990848829001728",
+        "name": "、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067278935667462144/n5ZhSxFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 64,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "mogugugu789",
+        "verified": false
+      }
+    ]
+  }
+}
